@@ -42,7 +42,7 @@ Od roku 2027 w Polsce przy otrzymywaniu pozwolenia na budowę będzie obowiązek
 
 Analizę wykonujemy zgodnie z poniższym schematem. Program wykonuje swoje obliczenia na podstawie wbudowanej bazy danych zawierającej ślad węglowy początkowy poszczególnych materiałów.
 
-![algorytm](.\assets\carbon-footprint-algorytm.jpg)
+![algorytm](./assets/carbon-footprint-algorytm.jpg)
 
 Celem programu jest wygenerowanie sumy i zestawienia śladu węglowego budynku, wymaganą przez zapowiadane przepisy prawa budowlanego w 2027 roku. Dodatkowo program obliczy jak zmienił się ślad węglowy użytkownika dzięki powstaniu budynku.
 
